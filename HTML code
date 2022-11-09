@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Binary Challenge</title>
+        <link href="/static/style.css" rel="stylesheet"/>
+    </head>
+
+    <body>
+    <header  style="background-color: rgb(103, 147, 186);">
+        <h1 style="color:rgb(15, 38, 67)" 
+            style="font-family:vteletype;">
+                Welcome to Challenge Number 2!
+        </h1>
+        
+    </header>
+        <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif"/>
+
+        <p>
+        This Challenge will be involving some Binary Algebra
+        </p>
+    <hr>
+        <p>
+        In binary Algerbra, there are only two numbers, 0 and 1.
+        </p>
+
+        <p style="margin-left: 40px"></p>
+            0 represents False (❌)
+            <br>
+            1 represents True (✅)
+        </p>
+
+    </body>
+</html>
