@@ -85,11 +85,13 @@ header{
 --------------------------------*/
 .projects {
     background-color: #9FB8AD;
+    border-bottom: 1px dashed #343434;
 }
 
 /*button*/
 .projects a{
     color:#bb7e5d;
+    
 }
 .btn {
     text-decoration: none;
